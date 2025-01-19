@@ -1,5 +1,20 @@
 # pinorama-studio
 
+## 0.5.0
+
+### Minor Changes
+
+- fc1d5c6: update to orama v3
+- 85b1358: update to fastify v5
+
+### Patch Changes
+
+- 35e9638: perf(studio): optimize table scrolling
+- Updated dependencies [fc1d5c6]
+- Updated dependencies [85b1358]
+  - pinorama-server@0.3.0
+  - pinorama-transport@0.1.3
+
 ## 0.4.0
 
 ### Minor Changes
